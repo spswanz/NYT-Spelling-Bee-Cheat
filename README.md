@@ -8,6 +8,6 @@ The _New York Times_ added a daily puzzle called ["Spelling Bee"](https://www.ny
 
 You get one point for each valid word and three points for a word that uses all seven letters (a pangram in NYT-ese). Each puzzle contains at least one pangram.
 
-Unlike the NYT crosswords, you can't check your answers right away; you have to wait until the following day. Furthermore, you can only check yesterday's answers, so if you want to go back to last week's answers, you can't. So I needed a way to check my answers. I especially needed a way to find the pangram, because no matter hwo many words I found, if I had not found the pangram, my day was ruined.
+Unlike the NYT crosswords, you can't check your answers right away; you have to wait until the following day. Furthermore, you can only check yesterday's answers, so if you want to go back to last week's answers, you can't. So I needed a way to check my answers. I especially needed a way to find the pangram, because no matter how many words I found, if I had not found the pangram, my day was ruined.
 
 So I wrote a little Python script. I hope it helps.
