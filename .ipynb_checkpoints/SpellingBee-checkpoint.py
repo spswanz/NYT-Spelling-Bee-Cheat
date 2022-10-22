@@ -94,6 +94,5 @@ def main():
     print(count)
 main()
 results = set(valid_words)  # reduce to unique valid words
-# print(sorted(results, key=lambda item: (-len(item), item))) # sort by longest to shortest, then alpahbetically
-print(sorted(results)) # sort alpahbetically
+print(sorted(results, key=lambda item: (-len(item), item))) # sort by longest to shortest, then alpahbetically
 print(set(pangrams))
